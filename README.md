@@ -1,6 +1,14 @@
 
 # Ejercicios Python 
 Este repositorio contiene una colección de ejercicios realizados en Python organizados por días. Cada día cubre un tema específico con ejemplos y prácticas para mejorar la comprensión del lenguaje.
+## Tabla de contenidos
+| Indice | Titulo  |
+|--|--|
+| 1 | Filtro          |
+| 2 | Python Workshop |
+| 3 | CRUD            |
+| 4 | Modulos         |
+| 5 | Diccionarios    |
 
 ## Estructura del repositorio
 
