@@ -24,3 +24,5 @@ Este repositorio contiene una colección de ejercicios realizados en Python orga
 1. Clona el repositorio en tu máquina local:
    git clone https://github.com/httml-juandvs/Python_S1_VargasJuan_
 
+   Hecho por Juan David Vargas Soto
+
